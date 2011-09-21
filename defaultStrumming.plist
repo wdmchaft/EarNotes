@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>001</key>
+	<dict>
+		<key>id</key>
+		<string>D D D D </string>
+		<key>imagePath</key>
+		<string>d_d_d_d_.png</string>
+		<key>soundPath</key>
+		<string>accoustic_d_d_d_d_.wav</string>
+	</dict>
+	<key>002</key>
+	<dict>
+		<key>id</key>
+		<string>D D DUD </string>
+		<key>imagePath</key>
+		<string>d_d_dud_.png</string>
+		<key>soundPath</key>
+		<string>accoustic_d_d_dud_.wav</string>
+	</dict>
+	<key>003</key>
+	<dict>
+		<key>id</key>
+		<string>D DUD DU</string>
+		<key>imagePath</key>
+		<string>d_dud_du.png</string>
+		<key>soundPath</key>
+		<string>accoustic_d_dud_du.wav</string>
+	</dict>
+	<key>004</key>
+	<dict>
+		<key>id</key>
+		<string>D D DUDU</string>
+		<key>imagePath</key>
+		<string>d_d_dudu.png</string>
+		<key>soundPath</key>
+		<string>accoustic_d_d_dudu.wav</string>
+	</dict>
+	<key>005</key>
+	<dict>
+		<key>id</key>
+		<string>DUD DUD </string>
+		<key>imagePath</key>
+		<string>dud_dud_.png</string>
+		<key>soundPath</key>
+		<string>accoustic_dud_dud_.wav</string>
+	</dict>
+	<key>006</key>
+	<dict>
+		<key>id</key>
+		<string>DUD D DU</string>
+		<key>imagePath</key>
+		<string>dud_d_du.png</string>
+		<key>soundPath</key>
+		<string>accoustic_dud_d_du.wav</string>
+	</dict>
+	<key>007</key>
+	<dict>
+		<key>id</key>
+		<string>DUDUDUDU</string>
+		<key>imagePath</key>
+		<string>dudududu.png</string>
+		<key>soundPath</key>
+		<string>accoustic_dudududu.wav</string>
+	</dict>
+	<key>008</key>
+	<dict>
+		<key>id</key>
+		<string>D DUDUD </string>
+		<key>imagePath</key>
+		<string>d_dudud_.png</string>
+		<key>soundPath</key>
+		<string>accoustic_d_dudud_.wav</string>
+	</dict>
+	<key>009</key>
+	<dict>
+		<key>id</key>
+		<string>D DU UD </string>
+		<key>imagePath</key>
+		<string>d_du_ud_.png</string>
+		<key>soundPath</key>
+		<string>accoustic_d_du_ud_.wav</string>
+	</dict>
+	<key>010</key>
+	<dict>
+		<key>id</key>
+		<string>DU UD D </string>
+		<key>imagePath</key>
+		<string>du_ud_d_.png</string>
+		<key>soundPath</key>
+		<string>accoustic_du_ud_d_.wav</string>
+	</dict>
+	<key>011</key>
+	<dict>
+		<key>id</key>
+		<string>DU UDUDU</string>
+		<key>imagePath</key>
+		<string>du_ududu.png</string>
+		<key>soundPath</key>
+		<string>accoustic_du_ududu.wav</string>
+	</dict>
+</dict>
+</plist>

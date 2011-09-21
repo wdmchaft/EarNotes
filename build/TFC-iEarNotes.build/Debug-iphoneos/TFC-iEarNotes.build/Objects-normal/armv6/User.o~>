@@ -1,0 +1,268 @@
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m: In function '-[User loadDefaultTrophies]':
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:171: error: expected ']' before ')' token
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:172: error: stray '#' in program
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:172: error: stray '#' in program
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:172: error: cannot find protocol declaration for 'statements'
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:173: error: expected identifier or '(' before '}' token
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:190: error: 'loadDefaultObjects' undeclared (first use in this function)
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:190: error: (Each undeclared identifier is reported only once
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:190: error: for each function it appears in.)
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:190: error: expected ';' before '{' token
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: error: expected declaration or statement at end of input
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:165: warning: unused variable 'descriptionKey'
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:164: warning: unused variable 'nameKey'
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m: At top level:
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: '@end' missing in implementation context
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: incomplete implementation of class 'User'
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-reset' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-checkTrophies' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-print' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-isPasswordCorrect:' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-expForStrummingLevel:' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-expForNotesLevel:' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-expForChordsLevel:' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-nextStrummingGuideModeLevelExp' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-nextNotesGuideModeLevelExp' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-nextChordsGuideModeLevelExp' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-subExpToStrummingGuideMode:' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-subExpToNotesGuideMode:' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-subExpToChordsGuideMode:' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-addExpToStrummingGuideMode:' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-addExpToNotesGuideMode:' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-addExpToChordsGuideMode:' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-loadDefaultStats' not found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:467: warning: method definition for '-loadDefaultObjects' not found
+{standard input}:1868:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L162"
+{standard input}:1868:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+{standard input}:1865:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L159"
+{standard input}:1865:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+{standard input}:1864:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L158"
+{standard input}:1864:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+{standard input}:1863:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L157"
+{standard input}:1863:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+{standard input}:1769:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_19" minus "L152"
+{standard input}:1769:symbol: "L_OBJC_SELECTOR_REFERENCES_19" can't be undefined in a subtraction expression
+{standard input}:1768:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_18" minus "L151"
+{standard input}:1768:symbol: "L_OBJC_SELECTOR_REFERENCES_18" can't be undefined in a subtraction expression
+{standard input}:1767:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_17" minus "L150"
+{standard input}:1767:symbol: "L_OBJC_SELECTOR_REFERENCES_17" can't be undefined in a subtraction expression
+{standard input}:1766:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_2" minus "L149"
+{standard input}:1766:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_2" can't be undefined in a subtraction expression
+{standard input}:1677:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L142"
+{standard input}:1677:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+{standard input}:1676:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L141"
+{standard input}:1676:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+{standard input}:1675:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L140"
+{standard input}:1675:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+{standard input}:1674:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.guitarType$non_lazy_ptr" minus "L139"
+{standard input}:1674:symbol: "L_OBJC_IVAR_$_User.guitarType$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1595:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_16" minus "L132"
+{standard input}:1595:symbol: "L_OBJC_SELECTOR_REFERENCES_16" can't be undefined in a subtraction expression
+{standard input}:1594:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_15" minus "L131"
+{standard input}:1594:symbol: "L_OBJC_SELECTOR_REFERENCES_15" can't be undefined in a subtraction expression
+{standard input}:1593:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_REFERENCES_$_1" minus "L130"
+{standard input}:1593:symbol: "L_OBJC_CLASSLIST_REFERENCES_$_1" can't be undefined in a subtraction expression
+{standard input}:1498:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.strummingGuideModeLevel$non_lazy_ptr" minus "L124"
+{standard input}:1498:symbol: "L_OBJC_IVAR_$_User.strummingGuideModeLevel$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1497:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L123"
+{standard input}:1497:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+{standard input}:1495:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.notesGuideModeLevel$non_lazy_ptr" minus "L121"
+{standard input}:1495:symbol: "L_OBJC_IVAR_$_User.notesGuideModeLevel$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1494:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L120"
+{standard input}:1494:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+{standard input}:1492:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.chordsGuideModeLevel$non_lazy_ptr" minus "L118"
+{standard input}:1492:symbol: "L_OBJC_IVAR_$_User.chordsGuideModeLevel$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1491:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L117"
+{standard input}:1491:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+{standard input}:1489:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.strummingGuideModeExp$non_lazy_ptr" minus "L115"
+{standard input}:1489:symbol: "L_OBJC_IVAR_$_User.strummingGuideModeExp$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1488:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L114"
+{standard input}:1488:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+{standard input}:1486:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.notesGuideModeExp$non_lazy_ptr" minus "L112"
+{standard input}:1486:symbol: "L_OBJC_IVAR_$_User.notesGuideModeExp$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1485:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L111"
+{standard input}:1485:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+{standard input}:1483:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.chordsGuideModeExp$non_lazy_ptr" minus "L109"
+{standard input}:1483:symbol: "L_OBJC_IVAR_$_User.chordsGuideModeExp$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1482:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L108"
+{standard input}:1482:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+{standard input}:1480:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.strummingGuideMode$non_lazy_ptr" minus "L106"
+{standard input}:1480:symbol: "L_OBJC_IVAR_$_User.strummingGuideMode$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1479:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L105"
+{standard input}:1479:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:1477:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.notesGuideMode$non_lazy_ptr" minus "L103"
+{standard input}:1477:symbol: "L_OBJC_IVAR_$_User.notesGuideMode$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1476:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L102"
+{standard input}:1476:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:1474:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.chordsGuideMode$non_lazy_ptr" minus "L100"
+{standard input}:1474:symbol: "L_OBJC_IVAR_$_User.chordsGuideMode$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1473:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L99"
+{standard input}:1473:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:1471:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.numericStats$non_lazy_ptr" minus "L97"
+{standard input}:1471:symbol: "L_OBJC_IVAR_$_User.numericStats$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1470:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L96"
+{standard input}:1470:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:1468:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.trophies$non_lazy_ptr" minus "L94"
+{standard input}:1468:symbol: "L_OBJC_IVAR_$_User.trophies$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1467:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L93"
+{standard input}:1467:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:1465:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.guitarType$non_lazy_ptr" minus "L91"
+{standard input}:1465:symbol: "L_OBJC_IVAR_$_User.guitarType$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1464:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_14" minus "L90"
+{standard input}:1464:symbol: "L_OBJC_SELECTOR_REFERENCES_14" can't be undefined in a subtraction expression
+{standard input}:1462:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.autoLogin$non_lazy_ptr" minus "L88"
+{standard input}:1462:symbol: "L_OBJC_IVAR_$_User.autoLogin$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1461:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_13" minus "L87"
+{standard input}:1461:symbol: "L_OBJC_SELECTOR_REFERENCES_13" can't be undefined in a subtraction expression
+{standard input}:1459:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.password$non_lazy_ptr" minus "L85"
+{standard input}:1459:symbol: "L_OBJC_IVAR_$_User.password$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1458:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L84"
+{standard input}:1458:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:1456:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.username$non_lazy_ptr" minus "L82"
+{standard input}:1456:symbol: "L_OBJC_IVAR_$_User.username$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1455:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_12" minus "L81"
+{standard input}:1455:symbol: "L_OBJC_SELECTOR_REFERENCES_12" can't be undefined in a subtraction expression
+{standard input}:1058:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L75"
+{standard input}:1058:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:1057:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.strummingGuideModeLevel$non_lazy_ptr" minus "L74"
+{standard input}:1057:symbol: "L_OBJC_IVAR_$_User.strummingGuideModeLevel$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1055:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L72"
+{standard input}:1055:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:1054:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.notesGuideModeLevel$non_lazy_ptr" minus "L71"
+{standard input}:1054:symbol: "L_OBJC_IVAR_$_User.notesGuideModeLevel$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1052:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L69"
+{standard input}:1052:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:1051:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.chordsGuideModeLevel$non_lazy_ptr" minus "L68"
+{standard input}:1051:symbol: "L_OBJC_IVAR_$_User.chordsGuideModeLevel$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1049:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L66"
+{standard input}:1049:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:1048:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.strummingGuideModeExp$non_lazy_ptr" minus "L65"
+{standard input}:1048:symbol: "L_OBJC_IVAR_$_User.strummingGuideModeExp$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1046:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L63"
+{standard input}:1046:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:1045:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.notesGuideModeExp$non_lazy_ptr" minus "L62"
+{standard input}:1045:symbol: "L_OBJC_IVAR_$_User.notesGuideModeExp$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1043:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L60"
+{standard input}:1043:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:1042:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.chordsGuideModeExp$non_lazy_ptr" minus "L59"
+{standard input}:1042:symbol: "L_OBJC_IVAR_$_User.chordsGuideModeExp$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1041:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L58"
+{standard input}:1041:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:1039:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L56"
+{standard input}:1039:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:1038:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.strummingGuideMode$non_lazy_ptr" minus "L55"
+{standard input}:1038:symbol: "L_OBJC_IVAR_$_User.strummingGuideMode$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1037:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L54"
+{standard input}:1037:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:1035:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L52"
+{standard input}:1035:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:1034:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.notesGuideMode$non_lazy_ptr" minus "L51"
+{standard input}:1034:symbol: "L_OBJC_IVAR_$_User.notesGuideMode$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1033:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L50"
+{standard input}:1033:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:1031:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L48"
+{standard input}:1031:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:1030:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.chordsGuideMode$non_lazy_ptr" minus "L47"
+{standard input}:1030:symbol: "L_OBJC_IVAR_$_User.chordsGuideMode$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1029:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L46"
+{standard input}:1029:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:1027:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L44"
+{standard input}:1027:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:1026:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.numericStats$non_lazy_ptr" minus "L43"
+{standard input}:1026:symbol: "L_OBJC_IVAR_$_User.numericStats$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1025:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L42"
+{standard input}:1025:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:1023:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L40"
+{standard input}:1023:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:1022:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.trophies$non_lazy_ptr" minus "L39"
+{standard input}:1022:symbol: "L_OBJC_IVAR_$_User.trophies$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1020:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_11" minus "L37"
+{standard input}:1020:symbol: "L_OBJC_SELECTOR_REFERENCES_11" can't be undefined in a subtraction expression
+{standard input}:1019:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.guitarType$non_lazy_ptr" minus "L36"
+{standard input}:1019:symbol: "L_OBJC_IVAR_$_User.guitarType$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1017:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_10" minus "L33"
+{standard input}:1017:symbol: "L_OBJC_SELECTOR_REFERENCES_10" can't be undefined in a subtraction expression
+{standard input}:1016:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.autoLogin$non_lazy_ptr" minus "L32"
+{standard input}:1016:symbol: "L_OBJC_IVAR_$_User.autoLogin$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1015:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L31"
+{standard input}:1015:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:1013:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L29"
+{standard input}:1013:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:1012:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.password$non_lazy_ptr" minus "L28"
+{standard input}:1012:symbol: "L_OBJC_IVAR_$_User.password$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:1011:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_9" minus "L27"
+{standard input}:1011:symbol: "L_OBJC_SELECTOR_REFERENCES_9" can't be undefined in a subtraction expression
+{standard input}:1009:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_8" minus "L25"
+{standard input}:1009:symbol: "L_OBJC_SELECTOR_REFERENCES_8" can't be undefined in a subtraction expression
+{standard input}:1008:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.username$non_lazy_ptr" minus "L24"
+{standard input}:1008:symbol: "L_OBJC_IVAR_$_User.username$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:344:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.strummingGuideModeLevel$non_lazy_ptr" minus "L19"
+{standard input}:344:symbol: "L_OBJC_IVAR_$_User.strummingGuideModeLevel$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:343:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.notesGuideModeLevel$non_lazy_ptr" minus "L18"
+{standard input}:343:symbol: "L_OBJC_IVAR_$_User.notesGuideModeLevel$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:342:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.chordsGuideModeLevel$non_lazy_ptr" minus "L17"
+{standard input}:342:symbol: "L_OBJC_IVAR_$_User.chordsGuideModeLevel$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:341:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.strummingGuideModeExp$non_lazy_ptr" minus "L16"
+{standard input}:341:symbol: "L_OBJC_IVAR_$_User.strummingGuideModeExp$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:340:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.notesGuideModeExp$non_lazy_ptr" minus "L15"
+{standard input}:340:symbol: "L_OBJC_IVAR_$_User.notesGuideModeExp$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:339:non-relocatable subtraction expression, "L_OBJC_IVAR_$_User.chordsGuideModeExp$non_lazy_ptr" minus "L14"
+{standard input}:339:symbol: "L_OBJC_IVAR_$_User.chordsGuideModeExp$non_lazy_ptr" can't be undefined in a subtraction expression
+{standard input}:338:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_7" minus "L13"
+{standard input}:338:symbol: "L_OBJC_SELECTOR_REFERENCES_7" can't be undefined in a subtraction expression
+{standard input}:337:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_6" minus "L12"
+{standard input}:337:symbol: "L_OBJC_SELECTOR_REFERENCES_6" can't be undefined in a subtraction expression
+{standard input}:336:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_5" minus "L11"
+{standard input}:336:symbol: "L_OBJC_SELECTOR_REFERENCES_5" can't be undefined in a subtraction expression
+{standard input}:335:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_4" minus "L10"
+{standard input}:335:symbol: "L_OBJC_SELECTOR_REFERENCES_4" can't be undefined in a subtraction expression
+{standard input}:334:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_3" minus "L8"
+{standard input}:334:symbol: "L_OBJC_SELECTOR_REFERENCES_3" can't be undefined in a subtraction expression
+{standard input}:333:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_2" minus "L7"
+{standard input}:333:symbol: "L_OBJC_SELECTOR_REFERENCES_2" can't be undefined in a subtraction expression
+{standard input}:332:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_1" minus "L6"
+{standard input}:332:symbol: "L_OBJC_SELECTOR_REFERENCES_1" can't be undefined in a subtraction expression
+{standard input}:331:non-relocatable subtraction expression, "L_OBJC_SELECTOR_REFERENCES_0" minus "L3"
+{standard input}:331:symbol: "L_OBJC_SELECTOR_REFERENCES_0" can't be undefined in a subtraction expression
+{standard input}:330:non-relocatable subtraction expression, "L_OBJC_CLASSLIST_SUP_REFS_$_0" minus "L2"
+{standard input}:330:symbol: "L_OBJC_CLASSLIST_SUP_REFS_$_0" can't be undefined in a subtraction expression
+{standard input}:unknown:Undefined local symbol L_objc_msgSendSuper2$stub
+{standard input}:unknown:Undefined local symbol L_objc_msgSend$stub
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_SUP_REFS_$_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_0
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_3
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_4
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_5
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_6
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_7
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.chordsGuideModeExp$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.notesGuideModeExp$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.strummingGuideModeExp$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.chordsGuideModeLevel$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.notesGuideModeLevel$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.strummingGuideModeLevel$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.username$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_8
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_9
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.password$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.autoLogin$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_10
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.guitarType$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_11
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.trophies$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.numericStats$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.chordsGuideMode$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.notesGuideMode$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_IVAR_$_User.strummingGuideMode$non_lazy_ptr
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_12
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_13
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_14
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_1
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_15
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_16
+{standard input}:unknown:Undefined local symbol L_OBJC_CLASSLIST_REFERENCES_$_2
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_17
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_18
+{standard input}:unknown:Undefined local symbol L_OBJC_SELECTOR_REFERENCES_19

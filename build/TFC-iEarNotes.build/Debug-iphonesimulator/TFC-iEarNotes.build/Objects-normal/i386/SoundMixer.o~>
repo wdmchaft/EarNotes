@@ -1,0 +1,11 @@
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/SoundMixer.m: In function '-[SoundMixer initWithFiles:andInterval:]':
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/SoundMixer.m:19: warning: unused variable 'num'
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/SoundMixer.m: In function '-[SoundMixer play]':
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/SoundMixer.m:49: warning: no '-getBufferPointer' method found
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/SoundMixer.m:49: warning: (Messages without a matching method signature
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/SoundMixer.m:49: warning: will be assumed to return 'id' and accept
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/SoundMixer.m:49: warning: '...' as arguments.)
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/SoundMixer.m:49: warning: passing argument 3 of 'alSourceQueueBuffers' from incompatible pointer type
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/SoundMixer.m:52: warning: passing argument 1 of 'alSourcePlay' makes integer from pointer without a cast
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/SoundMixer.m: At top level:
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/SoundMixer.m:58: warning: method possibly missing a [super dealloc] call

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+"http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>001</key>
+	<dict>
+		<key>id</key>
+		<string>D</string>
+		<key>imagePath</key>
+		<string>d_maj</string>
+		<key>soundPath</key>
+		<string>accoustic_d_maj.wav</string>
+	</dict>
+	<key>002</key>
+	<dict>
+		<key>id</key>
+		<string>C</string>
+		<key>imagePath</key>
+		<string>c_maj</string>
+		<key>soundPath</key>
+		<string>accoustic_c_maj.wav</string>
+	</dict>
+	<key>003</key>
+	<dict>
+		<key>id</key>
+		<string>E</string>
+		<key>imagePath</key>
+		<string>e_maj</string>
+		<key>soundPath</key>
+		<string>accoustic_e_maj.wav</string>
+	</dict>
+	<key>004</key>
+	<dict>
+		<key>id</key>
+		<string>Am</string>
+		<key>imagePath</key>
+		<string>a_min</string>
+		<key>soundPath</key>
+		<string>accoustic_a_min.wav</string>
+	</dict>
+	<key>005</key>
+	<dict>
+		<key>id</key>
+		<string>Em</string>
+		<key>imagePath</key>
+		<string>e_min</string>
+		<key>soundPath</key>
+		<string>accoustic_e_min.wav</string>
+	</dict>
+	<key>006</key>
+	<dict>
+		<key>id</key>
+		<string>Dm</string>
+		<key>imagePath</key>
+		<string>d_min</string>
+		<key>soundPath</key>
+		<string>accoustic_d_min.wav</string>
+	</dict>
+	<key>007</key>
+	<dict>
+		<key>id</key>
+		<string>G</string>
+		<key>imagePath</key>
+		<string>g_maj</string>
+		<key>soundPath</key>
+		<string>accoustic_g_maj.wav</string>
+	</dict>
+</dict>
+</plist>

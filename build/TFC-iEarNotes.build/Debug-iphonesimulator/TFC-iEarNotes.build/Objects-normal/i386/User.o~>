@@ -1,0 +1,5 @@
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m: In function '-[User initWithCoder:]':
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:79: warning: 'User' may not respond to '-refreshLanguage'
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:79: warning: (Messages without a matching method signature
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:79: warning: will be assumed to return 'id' and accept
+/Users/horntachi/Documents/ObjectiveC/TFC-iEarNotes/Classes/User.m:79: warning: '...' as arguments.)

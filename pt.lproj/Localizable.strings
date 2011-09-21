@@ -1,0 +1,50 @@
+/* 
+   Localizable.strings
+   TFC-iEarNotes
+
+   Created by Tiago Bras on 10/10/12.
+   Copyright 2010 Unknow. All rights reserved.
+ */
+"Chord" = "Acorde";
+"Chords" = "Acordes";
+"Note" = "Nota";
+"Notes" = "Notas";
+"Strummingrpatterns" = "Padrões de\rdedilhados";
+"Strumming patterns" = "Padrões de dedilhados";
+
+"Trophies" = "Troféus";
+"Stats" = "Estatística";
+
+"General" = "Geral";
+
+"Guide mode" = "Modo Acompanhado";
+"Custom mode" = "Modo Personalizado";
+
+"Settings" = "Opções";
+"Auto-login" = "Auto-autenticação";
+"Account information" = "Informação da conta";
+"Name" = "Nome";
+"Password" = "Palavra-chave";
+"Reset data" = "Repor todos os dados";
+"-Reset Warning Message-" = "Todos os dados actuais serão apagados.\rAcção NÃO reversível.";
+"Guitar type" = "Tipo de Guitarra";
+"Accoustic" = "Acústica";
+"Classical" = "Clássica";
+
+"Users" = "Utilizadores";
+"Choose or create a new account" = "Escolha ou crie uma nova conta";
+"New account" = "Nova Conta";
+"Confirm" = "Confirmar";
+
+"Cancel" = "Cancelar";
+
+/* Quizes */
+
+"New chord" = "Novo acorde!";
+"New note" = "Nova nota!";
+"New pattern" = "Novo padrão!";
+"-Strumming quiz explanation-" = "Construa o padrão correcto mudando o estado das setas.";
+"-Multiple sounds explanation-" = "Um toque para ouvir, dois para validar.";
+"-Chord return to previous screen explanation-" = "Para voltar ao questionário,\r tocar no acorde.";
+"-Note return to previous screen explanation-" = "Para voltar ao questionário,\r tocar na nota.";
+"-Pattern return to previous screen explanation-" = "Para voltar ao questionário,\r tocar no padrão.";

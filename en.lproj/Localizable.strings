@@ -1,0 +1,58 @@
+/* 
+   Localizable.strings
+   TFC-iEarNotes
+
+   Created by Tiago Bras on 10/10/12.
+   Copyright 2010 Unknow. All rights reserved.
+ */
+
+/* 
+   Localizable.strings
+   TFC-iEarNotes
+
+   Created by Tiago Bras on 10/10/12.
+   Copyright 2010 Unknow. All rights reserved.
+ */
+"Chord" = "Chord";
+"Chords" = "Chords";
+"Note" = "Note";
+"Notes" = "Notes";
+"Strummingrpatterns" = "Strumming\rpatterns";
+"Strumming patterns" = "Strumming patterns";
+
+"Trophies" = "Trophies";
+"Stats" = "Stats";
+
+"General" = "General";
+
+"Guide mode" = "Guide Mode";
+"Custom mode" = "Custom Mode";
+
+"Settings" = "Settings";
+"Auto-login" = "Auto-login";
+"Account information" = "Account Information";
+"Name" = "Name";
+"Password" = "Password";
+"Reset data" = "Reset all data";
+"-Reset Warning Message-" = "All of your data will be deleted.\rThis action cannot be undone.";
+"Guitar type" = "Type of Guitar";
+"Accoustic" = "Accoustic";
+"Classical" = "Classical";
+
+"Users" = "Users";
+"Choose or create a new account" = "Choose or create a new account";
+"New account" = "New account";
+"Confirm" = "Confirm";
+
+"Cancel" = "Cancel";
+
+/* Quizes */
+
+"New chord" = "New chord!";
+"New note" = "New note!";
+"New pattern" = "New pattern!";
+"-Strumming quiz explanation-" = "Create the strumming pattern by changing the state of the arrows.";
+"-Multiple sounds explanation-" = "Single-tap to listen, double-tap to confirm.";
+"-Chord return to previous screen explanation-" = "To return to the quiz,\r tap on the chord.";
+"-Note return to previous screen explanation-" = "To return to the quiz,\r tap on the note.";
+"-Pattern return to previous screen explanation-" = "To return to the quiz,\r tap on the pattern.";

@@ -1,0 +1,1348 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>001</key>
+	<dict>
+		<key>name</key>
+		<string>1 hora! Yay!</string>
+		<key>nameEn</key>
+		<string>1 hour! Yay!</string>
+		<key>description</key>
+		<string>Usar a aplicação por um período acumulado de 1 hora.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent using the application: 1 hour.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievHours1</string>
+	</dict>
+	<key>002</key>
+	<dict>
+		<key>name</key>
+		<string>Não pares!</string>
+		<key>nameEn</key>
+		<string>Don't stop!</string>
+		<key>description</key>
+		<string>Usar a aplicação por um período acumulado de 5 horas.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent using the application: 5 hours.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievHours5</string>
+	</dict>
+	<key>003</key>
+	<dict>
+		<key>name</key>
+		<string>Viciado</string>
+		<key>nameEn</key>
+		<string>Addicted</string>
+		<key>description</key>
+		<string>Usar a aplicação por um período acumulado de 20 horas.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent using the application: 20 hours.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievHours20</string>
+	</dict>
+	<key>004</key>
+	<dict>
+		<key>name</key>
+		<string>Acompanhado</string>
+		<key>nameEn</key>
+		<string>Guided</string>
+		<key>description</key>
+		<string>Tempo acumulado no modo acompanhado: 3 horas.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent on guide mode: 3 hours.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievGuideModeHours3</string>
+	</dict>
+	<key>005</key>
+	<dict>
+		<key>name</key>
+		<string>Acompanhadíssimo</string>
+		<key>nameEn</key>
+		<string>Super guided</string>
+		<key>description</key>
+		<string>Tempo acumulado no modo acompanhado: 10 horas.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent on guide mode: 10 hours.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievGuideModeHours10</string>
+	</dict>
+	<key>006</key>
+	<dict>
+		<key>name</key>
+		<string>Personalizado</string>
+		<key>nameEn</key>
+		<string>Customized</string>
+		<key>description</key>
+		<string>Tempo acumulado no modo personalizado: 3 horas.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent on custom mode: 3 hours.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievCustomModeHours3</string>
+	</dict>
+	<key>007</key>
+	<dict>
+		<key>name</key>
+		<string>Personalizadíssimo</string>
+		<key>nameEn</key>
+		<string>Super customized</string>
+		<key>description</key>
+		<string>Tempo acumulado no modo acompanhado: 10 horas.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent on guide mode: 10 hours.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievCustomModeHours10</string>
+	</dict>
+	<key>008</key>
+	<dict>
+		<key>name</key>
+		<string>Respostas - 10</string>
+		<key>nameEn</key>
+		<string>Answers - 10</string>
+		<key>description</key>
+		<string>Total de respostas dadas no modo acompanhado: 10</string>
+		<key>descriptionEn</key>
+		<string>Number of questions answered in guide mode: 10</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievGuideModeAnswers10</string>
+	</dict>
+	<key>009</key>
+	<dict>
+		<key>name</key>
+		<string>Respostas - 100</string>
+		<key>nameEn</key>
+		<string>Answers - 100</string>
+		<key>description</key>
+		<string>Total de respostas dadas no modo acompanhado: 100</string>
+		<key>descriptionEn</key>
+		<string>Number of questions answered in guide mode: 100</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievGuideModeAnswers100</string>
+	</dict>
+	<key>010</key>
+	<dict>
+		<key>name</key>
+		<string>Respostas - 500</string>
+		<key>nameEn</key>
+		<string>Answers - 500</string>
+		<key>description</key>
+		<string>Total de respostas dadas no modo acompanhado: 500</string>
+		<key>descriptionEn</key>
+		<string>Number of questions answered in guide mode: 500</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievGuideModeAnswers500</string>
+	</dict>
+	<key>011</key>
+	<dict>
+		<key>name</key>
+		<string>Respostas - 1500</string>
+		<key>nameEn</key>
+		<string>Answers - 1500</string>
+		<key>description</key>
+		<string>Total de respostas dadas no modo acompanhado: 1500</string>
+		<key>descriptionEn</key>
+		<string>Number of questions answered in guide mode: 1500</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievGuideModeAnswers1500</string>
+	</dict>
+	
+	
+	<!-- ACORDES -->
+	<key>012</key>
+	<dict>
+		<key>name</key>
+		<string>Fã</string>
+		<key>nameEn</key>
+		<string>Fan</string>
+		<key>description</key>
+		<string>Tempo acumulado no modo acompanhado: 1 hora.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent on guide mode: 1 hour.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievGuideModeChordsHours1</string>
+	</dict>
+	<key>013</key>
+	<dict>
+		<key>name</key>
+		<string>O maior</string>
+		<key>nameEn</key>
+		<string>The best</string>
+		<key>description</key>
+		<string>Tempo acumulado no modo acompanhado: 5 horas.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent on guide mode: 5 hours.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievGuideModeChordsHours5</string>
+	</dict>
+	<key>014</key>
+	<dict>
+		<key>name</key>
+		<string>Iniciado</string>
+		<key>nameEn</key>
+		<string>Beginner</string>
+		<key>description</key>
+		<string>Ser nível 2.</string>
+		<key>descriptionEn</key>
+		<string>Be level 2.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievChordsLevel2</string>
+	</dict>
+	<key>015</key>
+	<dict>
+		<key>name</key>
+		<string>Amador</string>
+		<key>nameEn</key>
+		<string>Amateur</string>
+		<key>description</key>
+		<string>Ser nível 10.</string>
+		<key>descriptionEn</key>
+		<string>Be level 10.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievChordsLevel10</string>
+	</dict>
+	<key>016</key>
+	<dict>
+		<key>name</key>
+		<string>Profissional</string>
+		<key>nameEn</key>
+		<string>Profissional</string>
+		<key>description</key>
+		<string>Ser nível 20.</string>
+		<key>descriptionEn</key>
+		<string>Be level 20.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievChordsLevel20</string>
+	</dict>
+	<key>017</key>
+	<dict>
+		<key>name</key>
+		<string>Mozart</string>
+		<key>nameEn</key>
+		<string>Mozart</string>
+		<key>description</key>
+		<string>Ser nível 30.</string>
+		<key>descriptionEn</key>
+		<string>Be level 30.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievChordsLevel30</string>
+	</dict>
+	<key>018</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 10</string>
+		<key>nameEn</key>
+		<string>Right - 10</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 10.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 10.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievGuideModeChordsRightAnswers10</string>
+	</dict>
+	<key>019</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 50</string>
+		<key>nameEn</key>
+		<string>Right - 50</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 50.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 50.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievGuideModeChordsRightAnswers50</string>
+	</dict>
+	<key>020</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 250</string>
+		<key>nameEn</key>
+		<string>Right - 250</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 250.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 250.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievGuideModeChordsRightAnswers250</string>
+	</dict>
+	<key>021</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 500</string>
+		<key>nameEn</key>
+		<string>Right - 500</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 500.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 500.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievGuideModeChordsRightAnswers500</string>
+	</dict>
+	<key>022</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 1000</string>
+		<key>nameEn</key>
+		<string>Right - 1000</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 1000.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 1000.</string>
+		<key>points</key>
+		<integer>25</integer>
+		<key>selector</key>
+		<string>achievGuideModeChordsRightAnswers1000</string>
+	</dict>
+	<key>023</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 5</string>
+		<key>nameEn</key>
+		<string>In a row - 5</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 5.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 5.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievGuideModeChordsRightAnswersInRow5</string>
+	</dict>
+	<key>024</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 10</string>
+		<key>nameEn</key>
+		<string>In a row - 10</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 10.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 10.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievGuideModeChordsRightAnswersInRow10</string>
+	</dict>
+	<key>025</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 15</string>
+		<key>nameEn</key>
+		<string>In a row - 15</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 15.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 15.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievGuideModeChordsRightAnswersInRow15</string>
+	</dict>
+	<key>026</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 20</string>
+		<key>nameEn</key>
+		<string>In a row - 20</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 20.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 20.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievGuideModeChordsRightAnswersInRow20</string>
+	</dict>
+	<key>027</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 25</string>
+		<key>nameEn</key>
+		<string>In a row - 25</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 25.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 25.</string>
+		<key>points</key>
+		<integer>25</integer>
+		<key>selector</key>
+		<string>achievGuideModeChordsRightAnswersInRow25</string>
+	</dict>
+	<key>028</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 1</string>
+		<key>nameEn</key>
+		<string>Learnt - 1</string>
+		<key>description</key>
+		<string>Aprender 1 acorde.</string>
+		<key>descriptionEn</key>
+		<string>1 chord learned.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievKnownChords1</string>
+	</dict>
+	<key>029</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 5</string>
+		<key>nameEn</key>
+		<string>Learnt - 5</string>
+		<key>description</key>
+		<string>Aprender 5 acordes.</string>
+		<key>descriptionEn</key>
+		<string>5 chords learned.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievKnownChords5</string>
+	</dict>
+	<key>030</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 10</string>
+		<key>nameEn</key>
+		<string>Learnt - 10</string>
+		<key>description</key>
+		<string>Aprender 10 acordes.</string>
+		<key>descriptionEn</key>
+		<string>10 chords learned.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievKnownChords10</string>
+	</dict>
+	<key>031</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 15</string>
+		<key>nameEn</key>
+		<string>Learnt - 15</string>
+		<key>description</key>
+		<string>Aprender 15 acordes.</string>
+		<key>descriptionEn</key>
+		<string>15 chords learned.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievKnownChords15</string>
+	</dict>
+	<key>032</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 30</string>
+		<key>nameEn</key>
+		<string>Learnt - 30</string>
+		<key>description</key>
+		<string>Aprender 30 acordes.</string>
+		<key>descriptionEn</key>
+		<string>30 chords learned.</string>
+		<key>points</key>
+		<integer>25</integer>
+		<key>selector</key>
+		<string>achievKnownChords30</string>
+	</dict>
+	<key>033</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 1</string>
+		<key>nameEn</key>
+		<string>Mastered - 1</string>
+		<key>description</key>
+		<string>Dominar 1 acorde.</string>
+		<key>descriptionEn</key>
+		<string>1 chord mastered.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievMasteredChords1</string>
+	</dict>
+	<key>034</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 5</string>
+		<key>nameEn</key>
+		<string>Mastered - 5</string>
+		<key>description</key>
+		<string>Dominar 5 acordes.</string>
+		<key>descriptionEn</key>
+		<string>5 chords mastered.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievMasteredChords5</string>
+	</dict>
+	<key>035</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 10</string>
+		<key>nameEn</key>
+		<string>Mastered - 10</string>
+		<key>description</key>
+		<string>Dominar 10 acordes.</string>
+		<key>descriptionEn</key>
+		<string>10 chords mastered.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievMasteredChords10</string>
+	</dict>
+	<key>036</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 15</string>
+		<key>nameEn</key>
+		<string>Mastered - 15</string>
+		<key>description</key>
+		<string>Dominar 15 acordes.</string>
+		<key>descriptionEn</key>
+		<string>15 chords mastered.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievMasteredChords15</string>
+	</dict>
+	<key>037</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 30</string>
+		<key>nameEn</key>
+		<string>Mastered - 30</string>
+		<key>description</key>
+		<string>Dominar 30 acordes.</string>
+		<key>descriptionEn</key>
+		<string>30 chords mastered.</string>
+		<key>points</key>
+		<integer>25</integer>
+		<key>selector</key>
+		<string>achievMasteredChords30</string>
+	</dict>
+	
+	<!-- NOTAS -->
+	<key>038</key>
+	<dict>
+		<key>name</key>
+		<string>Fã</string>
+		<key>nameEn</key>
+		<string>Fan</string>
+		<key>description</key>
+		<string>Tempo acumulado no modo acompanhado: 1 hora.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent on guide mode: 1 hour.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievGuideModeNotesHours1</string>
+	</dict>
+	<key>039</key>
+	<dict>
+		<key>name</key>
+		<string>O maior</string>
+		<key>nameEn</key>
+		<string>The best</string>
+		<key>description</key>
+		<string>Tempo acumulado no modo acompanhado: 5 horas.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent on guide mode: 5 hours.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievGuideModeNotesHours5</string>
+	</dict>
+	<key>040</key>
+	<dict>
+		<key>name</key>
+		<string>Iniciado</string>
+		<key>nameEn</key>
+		<string>Beginner</string>
+		<key>description</key>
+		<string>Ser nível 2.</string>
+		<key>descriptionEn</key>
+		<string>Be level 2.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievNotesLevel2</string>
+	</dict>
+	<key>041</key>
+	<dict>
+		<key>name</key>
+		<string>Amador</string>
+		<key>nameEn</key>
+		<string>Amateur</string>
+		<key>description</key>
+		<string>Ser nível 10.</string>
+		<key>descriptionEn</key>
+		<string>Be level 10.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievNotesLevel10</string>
+	</dict>
+	<key>042</key>
+	<dict>
+		<key>name</key>
+		<string>Profissional</string>
+		<key>nameEn</key>
+		<string>Profissional</string>
+		<key>description</key>
+		<string>Ser nível 20.</string>
+		<key>descriptionEn</key>
+		<string>Be level 20.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievNotesLevel20</string>
+	</dict>
+	<key>043</key>
+	<dict>
+		<key>name</key>
+		<string>Mozart</string>
+		<key>nameEn</key>
+		<string>Mozart</string>
+		<key>description</key>
+		<string>Ser nível 30.</string>
+		<key>descriptionEn</key>
+		<string>Be level 30.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievNotesLevel30</string>
+		</dict>
+	<key>044</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 10</string>
+		<key>nameEn</key>
+		<string>Right - 10</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 10.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 10.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievGuideModeNotesRightAnswers10</string>
+	</dict>
+	<key>045</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 50</string>
+		<key>nameEn</key>
+		<string>Right - 50</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 50.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 50.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievGuideModeNotesRightAnswers50</string>
+	</dict>
+	<key>046</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 250</string>
+		<key>nameEn</key>
+		<string>Right - 250</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 250.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 250.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievGuideModeNotesRightAnswers250</string>
+	</dict>
+	<key>047</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 500</string>
+		<key>nameEn</key>
+		<string>Right - 500</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 500.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 500.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievGuideModeNotesRightAnswers500</string>
+	</dict>
+	<key>048</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 1000</string>
+		<key>nameEn</key>
+		<string>Right - 1000</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 1000.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 1000.</string>
+		<key>points</key>
+		<integer>25</integer>
+		<key>selector</key>
+		<string>achievGuideModeNotesRightAnswers1000</string>
+	</dict>
+	<key>049</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 5</string>
+		<key>nameEn</key>
+		<string>In a row - 5</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 5.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 5.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievGuideModeNotesRightAnswersInRow5</string>
+	</dict>
+	<key>050</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 10</string>
+		<key>nameEn</key>
+		<string>In a row - 10</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 10.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 10.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievGuideModeNotesRightAnswersInRow10</string>
+	</dict>
+	<key>051</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 15</string>
+		<key>nameEn</key>
+		<string>In a row - 15</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 15.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 15.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievGuideModeNotesRightAnswersInRow15</string>
+	</dict>
+	<key>052</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 20</string>
+		<key>nameEn</key>
+		<string>In a row - 20</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 20.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 20.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievGuideModeNotesRightAnswersInRow20</string>
+	</dict>
+	<key>053</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 25</string>
+		<key>nameEn</key>
+		<string>In a row - 25</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 25.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 25.</string>
+		<key>points</key>
+		<integer>25</integer>
+		<key>selector</key>
+		<string>achievGuideModeNotesRightAnswersInRow25</string>
+	</dict>
+	<key>054</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 1</string>
+		<key>nameEn</key>
+		<string>Learnt - 1</string>
+		<key>description</key>
+		<string>Aprender 1 nota.</string>
+		<key>descriptionEn</key>
+		<string>1 note learned.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievKnownNotes1</string>
+	</dict>
+	<key>055</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 3</string>
+		<key>nameEn</key>
+		<string>Learnt - 3</string>
+		<key>description</key>
+		<string>Aprender 3 notas.</string>
+		<key>descriptionEn</key>
+		<string>3 notes learned.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievKnownNotes3</string>
+	</dict>
+	<key>056</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 5</string>
+		<key>nameEn</key>
+		<string>Learnt - 5</string>
+		<key>description</key>
+		<string>Aprender 5 notas.</string>
+		<key>descriptionEn</key>
+		<string>5 notes learned.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievKnownNotes5</string>
+	</dict>
+	<key>057</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 8</string>
+		<key>nameEn</key>
+		<string>Learnt - 8</string>
+		<key>description</key>
+		<string>Aprender 8 notas.</string>
+		<key>descriptionEn</key>
+		<string>8 notes learned.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievKnownNotes8</string>
+	</dict>
+	<key>058</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 12</string>
+		<key>nameEn</key>
+		<string>Learnt - 12</string>
+		<key>description</key>
+		<string>Aprender 12 notas.</string>
+		<key>descriptionEn</key>
+		<string>12 notes learned.</string>
+		<key>points</key>
+		<integer>25</integer>
+		<key>selector</key>
+		<string>achievKnownNotes12</string>
+	</dict>
+	<key>059</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 1</string>
+		<key>nameEn</key>
+		<string>Mastered - 1</string>
+		<key>description</key>
+		<string>Dominar 1 nota.</string>
+		<key>descriptionEn</key>
+		<string>1 note mastered.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievMasteredNotes1</string>
+	</dict>
+	<key>060</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 3</string>
+		<key>nameEn</key>
+		<string>Mastered - 3</string>
+		<key>description</key>
+		<string>Dominar 3 notas.</string>
+		<key>descriptionEn</key>
+		<string>3 notes mastered.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievMasteredNotes3</string>
+	</dict>
+	<key>061</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 5</string>
+		<key>nameEn</key>
+		<string>Mastered - 5</string>
+		<key>description</key>
+		<string>Dominar 5 notas.</string>
+		<key>descriptionEn</key>
+		<string>5 notes mastered.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievMasteredNotes5</string>
+	</dict>
+	<key>062</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 8</string>
+		<key>nameEn</key>
+		<string>Mastered - 8</string>
+		<key>description</key>
+		<string>Dominar 8 notas.</string>
+		<key>descriptionEn</key>
+		<string>8 notes mastered.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievMasteredNotes8</string>
+	</dict>
+	<key>063</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 12</string>
+		<key>nameEn</key>
+		<string>Mastered - 12</string>
+		<key>description</key>
+		<string>Dominar 12 notas.</string>
+		<key>descriptionEn</key>
+		<string>12 notes mastered.</string>
+		<key>points</key>
+		<integer>25</integer>
+		<key>selector</key>
+		<string>achievMasteredNotes12</string>
+	</dict>
+	
+	<!-- PADRÕES DE DEDILHADOS -->
+	<key>064</key>
+	<dict>
+		<key>name</key>
+		<string>Fã</string>
+		<key>nameEn</key>
+		<string>Fan</string>
+		<key>description</key>
+		<string>Tempo acumulado no modo acompanhado: 1 hora.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent on guide mode: 1 hour.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievGuideModeStrummingHours1</string>
+	</dict>
+	<key>065</key>
+	<dict>
+		<key>name</key>
+		<string>O maior</string>
+		<key>nameEn</key>
+		<string>The best</string>
+		<key>description</key>
+		<string>Tempo acumulado no modo acompanhado: 5 horas.</string>
+		<key>descriptionEn</key>
+		<string>Total time spent on guide mode: 5 hours.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievGuideModeStrummingHours5</string>
+	</dict>
+	<key>066</key>
+	<dict>
+		<key>name</key>
+		<string>Iniciado</string>
+		<key>nameEn</key>
+		<string>Beginner</string>
+		<key>description</key>
+		<string>Ser nível 2.</string>
+		<key>descriptionEn</key>
+		<string>Be level 2.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievStrummingLevel2</string>
+	</dict>
+	<key>067</key>
+	<dict>
+		<key>name</key>
+		<string>Amador</string>
+		<key>nameEn</key>
+		<string>Amateur</string>
+		<key>description</key>
+		<string>Ser nível 10.</string>
+		<key>descriptionEn</key>
+		<string>Be level 10.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievStrummingLevel10</string>
+	</dict>
+	<key>068</key>
+	<dict>
+		<key>name</key>
+		<string>Profissional</string>
+		<key>nameEn</key>
+		<string>Profissional</string>
+		<key>description</key>
+		<string>Ser nível 20.</string>
+		<key>descriptionEn</key>
+		<string>Be level 20.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievStrummingLevel20</string>
+	</dict>
+	<key>069</key>
+	<dict>
+		<key>name</key>
+		<string>Mozart</string>
+		<key>nameEn</key>
+		<string>Mozart</string>
+		<key>description</key>
+		<string>Ser nível 30.</string>
+		<key>descriptionEn</key>
+		<string>Be level 30.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievStrummingLevel30</string>
+		</dict>
+	<key>070</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 10</string>
+		<key>nameEn</key>
+		<string>Right - 10</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 10.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 10.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievGuideModeStrummingRightAnswers10</string>
+	</dict>
+	<key>071</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 50</string>
+		<key>nameEn</key>
+		<string>Right - 50</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 50.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 50.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievGuideModeStrummingRightAnswers50</string>
+	</dict>
+	<key>072</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 250</string>
+		<key>nameEn</key>
+		<string>Right - 250</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 250.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 250.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievGuideModeStrummingRightAnswers250</string>
+	</dict>
+	<key>073</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 500</string>
+		<key>nameEn</key>
+		<string>Right - 500</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 500.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 500.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievGuideModeStrummingRightAnswers500</string>
+	</dict>
+	<key>074</key>
+	<dict>
+		<key>name</key>
+		<string>Correctas - 1000</string>
+		<key>nameEn</key>
+		<string>Right - 1000</string>
+		<key>description</key>
+		<string>Total de respostas correctas no modo acompanhado: 1000.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in guide mode: 1000.</string>
+		<key>points</key>
+		<integer>25</integer>
+		<key>selector</key>
+		<string>achievGuideModeStrummingRightAnswers1000</string>
+	</dict>
+	<key>075</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 5</string>
+		<key>nameEn</key>
+		<string>In a row - 5</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 5.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 5.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievGuideModeStrummingRightAnswersInRow5</string>
+	</dict>
+	<key>076</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 10</string>
+		<key>nameEn</key>
+		<string>In a row - 10</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 10.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 10.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievGuideModeStrummingRightAnswersInRow10</string>
+	</dict>
+	<key>077</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 15</string>
+		<key>nameEn</key>
+		<string>In a row - 15</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 15.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 15.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievGuideModeStrummingRightAnswersInRow15</string>
+	</dict>
+	<key>078</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 20</string>
+		<key>nameEn</key>
+		<string>In a row - 20</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 20.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 20.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievGuideModeStrummingRightAnswersInRow20</string>
+	</dict>
+	<key>079</key>
+	<dict>
+		<key>name</key>
+		<string>De seguida - 25</string>
+		<key>nameEn</key>
+		<string>In a row - 25</string>
+		<key>description</key>
+		<string>Respostas certas dadas, sem falhar, no modo acompanhado: 25.</string>
+		<key>descriptionEn</key>
+		<string>Number of right answers in a row in guide mode: 25.</string>
+		<key>points</key>
+		<integer>25</integer>
+		<key>selector</key>
+		<string>achievGuideModeStrummingRightAnswersInRow25</string>
+	</dict>
+	<key>080</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 1</string>
+		<key>nameEn</key>
+		<string>Learnt - 1</string>
+		<key>description</key>
+		<string>Aprender 1 padrão de dedilhado.</string>
+		<key>descriptionEn</key>
+		<string>1 strumming pattern learned.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievKnownStrumming1</string>
+	</dict>
+	<key>081</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 3</string>
+		<key>nameEn</key>
+		<string>Learnt - 3</string>
+		<key>description</key>
+		<string>Aprender 3 padrões de dedilhados.</string>
+		<key>descriptionEn</key>
+		<string>3 strumming patterns learned.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievKnownStrumming3</string>
+	</dict>
+	<key>082</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 5</string>
+		<key>nameEn</key>
+		<string>Learnt - 5</string>
+		<key>description</key>
+		<string>Aprender 5 padrões de dedilhados.</string>
+		<key>descriptionEn</key>
+		<string>5 strumming patterns learned.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievKnownStrumming5</string>
+	</dict>
+	<key>083</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 8</string>
+		<key>nameEn</key>
+		<string>Learnt - 8</string>
+		<key>description</key>
+		<string>Aprender 8 padrões de dedilhados.</string>
+		<key>descriptionEn</key>
+		<string>8 strumming patterns learned.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievKnownStrumming8</string>
+	</dict>
+	<key>084</key>
+	<dict>
+		<key>name</key>
+		<string>Aprendido - 12</string>
+		<key>nameEn</key>
+		<string>Learnt - 12</string>
+		<key>description</key>
+		<string>Aprender 12 padrões de dedilhados.</string>
+		<key>descriptionEn</key>
+		<string>12 strumming patterns learned.</string>
+		<key>points</key>
+		<integer>25</integer>
+		<key>selector</key>
+		<string>achievKnownStrumming12</string>
+	</dict>
+	<key>085</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 1</string>
+		<key>nameEn</key>
+		<string>Mastered - 1</string>
+		<key>description</key>
+		<string>Dominar 1 padrão de dedilhado.</string>
+		<key>descriptionEn</key>
+		<string>1 strumming pattern mastered.</string>
+		<key>points</key>
+		<integer>5</integer>
+		<key>selector</key>
+		<string>achievMasteredStrumming1</string>
+	</dict>
+	<key>086</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 3</string>
+		<key>nameEn</key>
+		<string>Mastered - 3</string>
+		<key>description</key>
+		<string>Dominar 3 padrões de dedilhados.</string>
+		<key>descriptionEn</key>
+		<string>3 strumming patterns mastered.</string>
+		<key>points</key>
+		<integer>10</integer>
+		<key>selector</key>
+		<string>achievMasteredStrumming3</string>
+	</dict>
+	<key>087</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 5</string>
+		<key>nameEn</key>
+		<string>Mastered - 5</string>
+		<key>description</key>
+		<string>Dominar 5 padrões de dedilhados.</string>
+		<key>descriptionEn</key>
+		<string>5 strumming patterns mastered.</string>
+		<key>points</key>
+		<integer>15</integer>
+		<key>selector</key>
+		<string>achievMasteredStrumming5</string>
+	</dict>
+	<key>088</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 8</string>
+		<key>nameEn</key>
+		<string>Mastered - 8</string>
+		<key>description</key>
+		<string>Dominar 8 padrões de dedilhados.</string>
+		<key>descriptionEn</key>
+		<string>8 strumming patterns mastered.</string>
+		<key>points</key>
+		<integer>20</integer>
+		<key>selector</key>
+		<string>achievMasteredStrumming8</string>
+	</dict>
+	<key>089</key>
+	<dict>
+		<key>name</key>
+		<string>Mestrado - 12</string>
+		<key>nameEn</key>
+		<string>Mastered - 12</string>
+		<key>description</key>
+		<string>Dominar 12 padrões de dedilhados.</string>
+		<key>descriptionEn</key>
+		<string>12 strumming patterns mastered.</string>
+		<key>points</key>
+		<integer>25</integer>
+		<key>selector</key>
+		<string>achievMasteredStrumming12</string>
+	</dict>
+</dict>
+</plist>
